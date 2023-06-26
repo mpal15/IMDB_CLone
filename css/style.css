@@ -1,0 +1,142 @@
+/* navbar section */
+.container-fluid{
+    position: relative;
+}
+.main-section{
+    display: grid;
+    grid-template-columns: auto auto ;
+    
+}
+.card{
+    margin: 40px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    width: 540px;
+   
+}
+#row_id{
+    margin: 40px;
+    max-width: 540px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card-body{
+    gap: 0px;
+}
+
+.favourite{
+    margin-left: 80px;
+    margin-top: 40px;
+}
+.favourite1{
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.favourite_1{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#more-info{
+    margin-top:40px ;
+}
+.more-info{
+    margin-top:40px ;
+}
+.more-info1{
+    margin-left: 10px;
+    margin-top:70px ;
+}
+.card-body1{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body0{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body_0{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:small;
+    font-style:italic ;
+    color: #ffff;
+}
+.info{
+    background-color:#0c0c0d;
+}
+.card-body2{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body3{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body4{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body5{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body6{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body7{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+.card-body8{
+    margin-left: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:larger;
+    font-style:italic ;
+    color: #ffff;
+}
+/* more-info */
+#details{
+    width: 1000px;
+}
+.back{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.delete{
+    margin-left: 130px;
+    margin-top: 60px;
+
+}
