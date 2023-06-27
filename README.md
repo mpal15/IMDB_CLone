@@ -5,7 +5,7 @@ it is clone of imdb movie where we fetch the data from imdb api
 2.CSS
 3.VANILLA JAVASCRIPT
 
-##GUI
+#GUI
 STEP1.HOME
 ![Screenshot (42)](https://github.com/mpal15/IMDB_CLone/assets/62149463/52a1a35e-6adb-4e85-bebf-254405924023)
 STEP2.SEARCHING THE MOVIES
